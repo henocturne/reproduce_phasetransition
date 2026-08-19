@@ -1,0 +1,10 @@
+﻿# Parameter sets for the directed network evolution simulation.
+# One set per line:  alpha  beta  N
+# Lines starting with # are ignored.
+
+# Original org.cpp parameters
+1 0.5 100
+# 1 0.25 2000
+# More examples -- uncomment or add yours
+# 0.3  2.0  50
+# 0.5  5.0  100
